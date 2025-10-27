@@ -78,13 +78,25 @@ This project contains complete code and datasets for Brain-Computer Interface (B
   - HT model with modified layer size for better outcomes
 - **Goal**: Achieve superior classification accuracy through model optimization
 
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Lukelaitw/114-1_BME_Exp3_group_5.git
+cd 114-1_BME_Exp3_group_5
+```
+
+2. Install required packages:
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage Instructions
 
-1. Ensure necessary Python packages are installed (numpy, pandas, scikit-learn, matplotlib, etc.)
-2. Run `114_1_gX_exp3.py` for basic voting model analysis using 113-2 data
-3. Run `114_1_gX_exp3_2.py` for enhanced voting models using combined dataset
-4. Compare results between standard and HT models
-5. View the generated result images for performance evaluation
+1. Run `114_1_gX_exp3.py` for basic voting model analysis using 113-2 data
+2. Run `114_1_gX_exp3_2.py` for enhanced voting models using combined dataset
+3. Compare results between standard and HT models
+4. View the generated result images for performance evaluation
 
 ## Authors
 
