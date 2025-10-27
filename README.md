@@ -42,9 +42,10 @@ This project contains complete code and datasets for Brain-Computer Interface (B
 - **Standard Model**: Same parameters as Experiment 1 voting model
 - **HT Model**: Modified layer size for improved performance
 
+![Personal Voting Data Results](114_1_gX_exp3_2/bci_results_voting_data_personal.png)
+
 ![Voting Data HT Results](114_1_gX_exp3_2/bci_results_voting_data_HT.png)
 
-![Personal Voting Data Results](114_1_gX_exp3_2/bci_results_voting_data_personal.png)
 
 ## Technical Features
 
